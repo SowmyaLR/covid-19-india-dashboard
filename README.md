@@ -1,3 +1,4 @@
+
 # covid-19-india-dashboard
 
 ## Inspiration
@@ -22,3 +23,5 @@ Dataset source: https://raw.githubusercontent.com/datameet/covid19/master/data/d
 
 1. pip3 install -r requirements.txt
 2. streamlit run app.py
+
+<img width="1792" alt="Screenshot 2021-03-31 at 2 03 40 PM" src="https://user-images.githubusercontent.com/15843240/113115302-ed734100-9229-11eb-97ed-070a102b64a0.png">
