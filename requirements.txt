@@ -4,3 +4,4 @@ scikit-learn
 matplotlib
 numpy
 lxml
+mistune>=2.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
